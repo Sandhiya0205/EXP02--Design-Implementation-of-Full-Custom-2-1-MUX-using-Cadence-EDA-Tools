@@ -77,7 +77,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- 
+
+ ![WhatsApp Image 2024-10-19 at 12 52 12_ffddfe6c](https://github.com/user-attachments/assets/96a97119-a802-4854-bf63-1354f5a62f02)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
