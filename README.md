@@ -6,6 +6,9 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+
+![WhatsApp Image 2024-10-19 at 12 50 24_1bd81a35](https://github.com/Sandhiya0205/EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools/blob/main/Wha2nd.jpeg)
+
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
